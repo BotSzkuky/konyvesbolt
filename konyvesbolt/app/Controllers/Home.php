@@ -11,7 +11,7 @@ class Home extends BaseController
     }
 
 
-    public function udv()
+    public function welcome_message()
     {
         return view('udv');
 
