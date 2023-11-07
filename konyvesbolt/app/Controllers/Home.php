@@ -10,11 +10,7 @@ class Home extends BaseController
 
     }
 
-    public function regisztracio()
-    {
-        return view('regisztracio');
 
-    }
     public function udv()
     {
         return view('udv');
